@@ -1,0 +1,51 @@
+Online Learning list
+====================
+
++ Azure Spark Databricks Essential Training: put note on linkedIn (https://www.linkedin.com/learning/azure-spark-databricks-essential-training/what-you-should-know?u=2232618)
++ Azure fundamentals (AZ-900): DONE
++ Explore AI solution development with data science services in Azure (https://docs.microsoft.com/en-us/learn/paths/explore-data-science-tools-in-azure/)
++ Visual Studio Code for Python Developers (https://www.linkedin.com/learning/visual-studio-code-for-python-developers/next-steps?u=2232618)
++ Exam prep: Microsoft Azure Fundamentals (AZ-900): DONE
+
+- Evolve your DevOps practices (AZ-400)(https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/): in progress
+
+
+
+TODO 
+- Learning Visual Studio Code (https://www.linkedin.com/learning/learning-visual-studio-code/welcome?u=2232618)
+- Azure for the data Engineer (1h51 https://docs.microsoft.com/en-us/learn/paths/azure-for-the-data-engineer/)
+- Explore AI solution development with data science services in Azure: https://docs.microsoft.com/en-us/learn/paths/explore-data-science-tools-in-azure/
+- Azure for DevOps: Application Infrastructure
+- Visual Studio Tools for Azure DevOps
+- Apache PySpark by example (): 
+- Apache Spark Deep Learning Essential Training (https://www.linkedin.com/learning/apache-spark-deep-learning-essential-training/apache-spark?u=2232618)
+- Extending Hadoop for Data Science: Streaming, Spark, Storm, and Kafka (https://www.linkedin.com/learning/extending-hadoop-for-data-science-streaming-spark-storm-and-kafka/welcome?u=2232618)
+- git commands refresher : find lecture
+- Unix command line : find lecture
+
+
+Training for exams:
+
+Whole list: https://www.itexams.com/vendor/Microsoft
+
+AZ-400: https://docs.microsoft.com/en-us/learn/certifications/exams/az-400?wt.mc_id=learningredirect_certs-web-wwl 
+
+Skills measured:
+    NOTE: The bullets that appear below each of the skills measured in the document below are intended to illustrate how we are assessing that skill. This list is not definitive or exhaustive.
+    Design a DevOps strategy (20-25%)
+    Implement DevOps development processes (20-25%)
+    Implement continuous integration (10-15%)
+    Implement continuous delivery (10-15%)
+    Implement dependency management (5-10%)
+    Implement application infrastructure (15-20%)
+    Implement continuous feedback (10-15%)
+
+
+
+AZ-900: 
+
+AI-100: https://www.itexams.com/exam/AI-100
+
+Azure DevOps:
+
+https://jeremylindsayni.wordpress.com/2019/06/10/everything-as-code-with-azure-devops-pipelines-c-arm-and-yaml-part-2-multi-stage-builds-in-yaml/

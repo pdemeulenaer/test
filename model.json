@@ -1,0 +1,10 @@
+{
+    "id": "6deabc82-18ef-4959-8f5c-b3e9964f921a", 
+    "name": "CashFlow", 
+    "description": "Deployment of CashFlow project", 
+    "supportedFrameworks": [
+        "DOCKER"
+    ], 
+    "language": "python", 
+    "template": "empty"
+}
